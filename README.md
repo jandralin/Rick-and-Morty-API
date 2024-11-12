@@ -42,7 +42,7 @@
 
 ## Ссылка на деплой
 
-- [Развернутая версия проекта](https://https://jandralin.github.io/Rick-and-Morty-API/)
+- [Развернутая версия проекта](https://jandralin.github.io/Rick-and-Morty-API/)
 
 ## Команды npm
 
